@@ -92,7 +92,6 @@ league-of-legends-match-winner-prediction/
 │
 ├── match-winner-prediction.ipynb
 │   
-│
 └── project-report.pdf
 ```
 
