@@ -90,11 +90,10 @@ league-of-legends-match-winner-prediction/
 │
 ├── README.md
 │
-├── notebooks/
-│   └── match-winner-prediction.ipynb
+├── match-winner-prediction.ipynb
+│   
 │
-└── report/
-    └── project-report.pdf
+└── project-report.pdf
 ```
 
 ## Technologies Used
